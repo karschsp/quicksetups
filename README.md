@@ -1,4 +1,4 @@
 quicksetups
 ===========
 
-templates for common setups
+Templates for common setups
